@@ -1,4 +1,4 @@
-Hand Signal Detection using OpenCV
+# Hand Signal Detection using OpenCV
 
 This project is a Python script that uses OpenCV to detect and track hand signals in real-time video streams from a webcam.
 
